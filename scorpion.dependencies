@@ -2,26 +2,21 @@
   {
    "repository":  "ScorpionRom-Devices/device_oneplus_msm8998-common",
    "target_path": "device/oneplus/msm8998-common",
-   "branch":      "test"
+   "branch":      "sr-2.x"
   },
   {
    "repository":  "ScorpionRom-Devices/device_oneplus_extras",
    "target_path": "device/oneplus/extras",
-   "branch":      "test"
+   "branch":      "sr-2.x"
   },
   {
    "repository":  "ScorpionRom-Devices/kernel_oneplus_msm8998",
    "target_path": "kernel/oneplus/msm8998",
-   "branch":      "test"
-  },
-  {
-   "repository" : "ScorpionRom-Devices/system_qcom",
-   "target_path": "system/qcom",
-   "branch"     : "test"
+   "branch":      "sr-2.x"
   },
   {
    "repository":  "ScorpionRom-Devices/vendor_oneplus",
    "target_path": "vendor/oneplus",
-   "branch":      "test"
+   "branch":      "sr-2.x"
   }
 ]
